@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@slack/bolt": "^2.1.1",
+    "@slack/bolt": "^3.12.2",
     "airtable": "^0.8.1",
     "dotenv": "^8.2.0",
     "ioredis": "^4.17.3",
